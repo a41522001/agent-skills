@@ -1,5 +1,5 @@
 {
-  "name": "agent-skills",
+  "name": "jeffery-skills",
   "owner": {
     "name": "a41522001"
   },
@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "agent-skills",
+      "name": "jeffery-skills",
       "source": "./",
       "description": "NestJS testing and native Figma plugin design skills for AI coding agents"
     }

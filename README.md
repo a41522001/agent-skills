@@ -15,7 +15,7 @@ A collection of [Agent Skills](https://agentskills.io) for AI coding agents such
 
 ```
 /plugin marketplace add a41522001/agent-skills
-/plugin install agent-skills@agent-skills
+/plugin install jeffery-skills@jeffery-skills
 ```
 
 ### Any agent (`skills` CLI)
