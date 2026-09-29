@@ -1,0 +1,11 @@
+{
+  "name": "agent-skills",
+  "description": "NestJS testing and native Figma plugin design skills for AI coding agents",
+  "version": "1.0.0",
+  "author": {
+    "name": "a41522001"
+  },
+  "repository": "https://github.com/a41522001/agent-skills",
+  "license": "MIT",
+  "keywords": ["skills", "nestjs", "testing", "figma"]
+}
